@@ -1,0 +1,10 @@
+INCLUDE(../../../../cmake/macros.cmake)
+
+SD_ADD_SUBDIRECTORY(36gp-century-r11b)
+SD_ADD_SUBDIRECTORY(36gp-ettore-t59)
+SD_ADD_SUBDIRECTORY(36gp-milano-12c36)
+SD_ADD_SUBDIRECTORY(36gp-milano-tipop3)
+SD_ADD_SUBDIRECTORY(36gp-motorunion-typec)
+SD_ADD_SUBDIRECTORY(36gp-silber-w25b)
+SD_ADD_SUBDIRECTORY(36gp-tridenti-6c34)
+SD_ADD_SUBDIRECTORY(36gp-tridenti-v8ri)
